@@ -1,0 +1,14 @@
+{
+  "name": "Blockhaven — a little world of your own",
+  "short_name": "Blockhaven",
+  "description": "A pocket-sized block-building island to explore and shape.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#9bdde3",
+  "theme_color": "#8bd7df",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
